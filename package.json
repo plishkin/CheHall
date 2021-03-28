@@ -4,13 +4,15 @@
   "description": "",
   "scripts": {
     "dev": "npx truffle development",
-    "migrate": "rm -rf ./build && npx truffle migrate --reset"
+    "migrate": "npx truffle migrate --network development --reset",
+    "rinkeby": "npx truffle console --network rinkeby"
   },
   "keywords": [],
   "author": "Che Hall",
   "license": "ISC",
   "devDependencies": {
-    "@openzeppelin/contracts": "^4.0.0",
-    "truffle": "^5.2.6"
+    "@openzeppelin/contracts": "4.0.0",
+    "@truffle/hdwallet-provider": "1.2.3",
+    "truffle": "5.0.46-micah.0"
   }
 }
