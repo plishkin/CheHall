@@ -9,8 +9,8 @@
   "keywords": [],
   "author": "Che Hall",
   "license": "ISC",
-  "devDependencies": {},
-  "dependencies": {
-    "truffle": "^5.0.46-micah.0"
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.0.0",
+    "truffle": "^5.2.6"
   }
 }
