@@ -1,0 +1,16 @@
+{
+  "name": "chehall",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "dev": "npx truffle development",
+    "migrate": "rm -rf ./build && npx truffle migrate --reset"
+  },
+  "keywords": [],
+  "author": "Che Hall",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "truffle": "^5.0.46-micah.0"
+  }
+}
