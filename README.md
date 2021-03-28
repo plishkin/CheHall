@@ -9,7 +9,7 @@ https://docs.google.com/presentation/d/1yI19nr6uOeugXciHbYQ-5lTKbxVJHA2GlMCe82Hq
 Задача 1 - создать контракт и NFT на картинку (done)
 Реализован воркфлоу описаный тут 
 
-https://forum.openzeppelmain streamin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961
+https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961
 и тут
 https://forum.openzeppelin.com/t/connecting-to-public-test-networks-with-truffle/2960
 
